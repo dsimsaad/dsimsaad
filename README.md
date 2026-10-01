@@ -1,70 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Muhammad Saad">
+</p>
 
-<svg width="100%" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="45%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#21262d"/>
-    </linearGradient>
-
-```
-<radialGradient id="glow1">
-  <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.35"/>
-  <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
-</radialGradient>
-
-<radialGradient id="glow2">
-  <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.25"/>
-  <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
-</radialGradient>
-
-<filter id="blur">
-  <feGaussianBlur stdDeviation="25"/>
-</filter>
-```
-
-  </defs>
-
-  <rect width="900" height="150" fill="url(#bg)"/>
-
-  <circle cx="150" cy="20" r="130" fill="url(#glow1)" filter="url(#blur)"/>
-  <circle cx="760" cy="130" r="160" fill="url(#glow2)" filter="url(#blur)"/>
-
-<text
- x="450"
- y="70"
- text-anchor="middle"
- fill="#ffffff"
- font-family="Arial, Helvetica, sans-serif"
- font-size="40"
- font-weight="600">
-Muhammad Saad </text>
-
-<text
- x="450"
- y="105"
- text-anchor="middle"
- fill="#c9d1d9"
- font-family="Arial, Helvetica, sans-serif"
- font-size="16">
-Data Science Student in Pakistan </text> </svg>
-
-<br>
-
-<a href="https://linkedin.com/in/msaad-ds">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://github.com/dsimsaad">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;
-<a href="mailto:ds.muhammadsaad@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/msaad-ds">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/dsimsaad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:ds.muhammadsaad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
