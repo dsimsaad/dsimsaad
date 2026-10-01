@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Muhammad Saad">
+  Muhammad Saad
 </p>
 
 <p align="center">
