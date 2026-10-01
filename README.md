@@ -1,37 +1,49 @@
-<h1 align="center">Hi, I'm Saad</h1>
-<h3 align="center">A Data Science Student from Pakistan</h3>
+<h1 align="center">Muhammad Saad</h1>
+<p align="center">
+  <b>Data Science Student from Pakistan</b><br>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/msaad-ds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/dsimsaad"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:ds.muhammadsaad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
 
 ## About Me
-I am a Data Science student passionate about problem solving, mathematics, data analysis, and building different applications. 
+I am an undergraduate Data Science student driven by problem-solving, mathematics, and software development. 
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/msaad-ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaad-ds" height="30" width="40" /></a>
-</p>
+## Skills & Technical Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | C, C#, Python |
+| **Web Technologies** | HTML5, CSS3, Bootstrap |
+| **Databases & Storage** | Microsoft SQL Server (T-SQL) |
+| **Developer Tools** | Git, GitHub, Visual Studio Code |
+
+---
 
 ## Featured Projects
 
-### 🛠️ [BuildWise](https://github.com/dsimsaad/BuildWise)
-A desktop application built using Object-Oriented Programming (OOP) in C# integrated with Microsoft SQL Server for backend database management. Designed to streamline structural and project planning workflows.
+### [BuildWise](https://github.com/dsimsaad/BuildWise)
+A desktop management application engineered using Object-Oriented Programming (OOP) in C# and backed by Microsoft SQL Server. Designed to streamline structural scheduling, database interactions, and project planning workflows.
 
 ---
 
 ## Education
-**BS Data Science**  
-*UET LAHORE (2025-2029)*
 
-## Contact
-- Email: ds.muhammadsaad@gmail.com
-- GitHub: [@dsimsaad](https://github.com/dsimsaad)
+**Bachelor of Science in Data Science**  
+*University of Engineering and Technology (UET), Lahore*  
+`2025 – 2029`
+
+---
+
+## Contact & Connect
+
+- **Email:** [ds.muhammadsaad@gmail.com](mailto:ds.muhammadsaad@gmail.com)
+- **LinkedIn:** [linkedin.com/in/msaad-ds](https://linkedin.com/in/msaad-ds)
+- **GitHub:** [@dsimsaad](https://github.com/dsimsaad)
