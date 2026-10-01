@@ -7,15 +7,22 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/msaad-ds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/dsimsaad"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ds.muhammadsaad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/msaad-ds">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/dsimsaad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:ds.muhammadsaad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 ## About Me
-I am an undergraduate Data Science student driven by problem-solving, mathematics, and software development. 
+
+I am an undergraduate Data Science student driven by problem-solving, mathematics, and software development.
 
 ---
 
@@ -39,19 +46,25 @@ I am an undergraduate Data Science student driven by problem-solving, mathematic
 ## Featured Projects
 
 ### 🛠️ [BuildWise](https://github.com/dsimsaad/BuildWise)
-Managing construction projects often leads to delays, disorganized planning, and scattered resource tracking. BuildWise solves this by providing a unified platform that connects project scheduling, budget planning, and material management into one place. Built with C# and Microsoft SQL Server, it helps teams replace manual paperwork with organized database tracking—ensuring project managers can monitor progress, manage assets, and keep engineering projects running smoothly on schedule.
+
+Managing construction projects often leads to delays, disorganized planning, and scattered resource tracking.
+
+**BuildWise** solves this by providing a unified platform that connects project scheduling, budget planning, and material management into one place.
+
+Built with **C#** and **Microsoft SQL Server**, it helps teams replace manual paperwork with organized database tracking—ensuring project managers can monitor progress, manage assets, and keep engineering projects running smoothly on schedule.
+
 ---
 
 ## Education
 
-**Bachelor of Science in Data Science**  
-*University of Engineering and Technology (UET), Lahore*  
+**Bachelor of Science in Data Science**
+*University of Engineering and Technology (UET), Lahore*
 `2025 – 2029`
 
 ---
 
 ## Contact & Connect
 
-- **Email:** [ds.muhammadsaad@gmail.com](mailto:ds.muhammadsaad@gmail.com)
-- **LinkedIn:** [linkedin.com/in/msaad-ds](https://linkedin.com/in/msaad-ds)
-- **GitHub:** [@dsimsaad](https://github.com/dsimsaad)
+* **Email:** [ds.muhammadsaad@gmail.com](mailto:ds.muhammadsaad@gmail.com)
+* **LinkedIn:** [linkedin.com/in/msaad-ds](https://linkedin.com/in/msaad-ds)
+* **GitHub:** [@dsimsaad](https://github.com/dsimsaad)
