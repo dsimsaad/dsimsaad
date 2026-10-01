@@ -39,7 +39,7 @@ I am an undergraduate Data Science student driven by problem-solving, mathematic
 ## Featured Projects
 
 ### 🛠️ [BuildWise](https://github.com/dsimsaad/BuildWise)
-BuildWise is a comprehensive construction management application engineered using Object-Oriented Programming (OOP) in C# and integrated with Microsoft SQL Server for robust backend database administration. The system is designed to streamline structural project scheduling, resource management, and complex workflow tracking for engineering and construction projects. Managing construction projects often leads to delays, disorganized planning, and scattered resource tracking. BuildWise solves this by providing a unified platform that connects project scheduling, budget planning, and material management into one place.
+Managing construction projects often leads to delays, disorganized planning, and scattered resource tracking. BuildWise solves this by providing a unified platform that connects project scheduling, budget planning, and material management into one place. Built with C# and Microsoft SQL Server, it helps teams replace manual paperwork with organized database tracking—ensuring project managers can monitor progress, manage assets, and keep engineering projects running smoothly on schedule.
 ---
 
 ## Education
