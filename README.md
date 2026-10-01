@@ -4,7 +4,6 @@
 ## About Me
 I am a Data Science student passionate about problem solving, mathematics, data analysis, and building different applications. 
 
-- How to reach me **ds.muhammadsaad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +31,7 @@ A desktop application built using Object-Oriented Programming (OOP) in C# integr
 ## Education
 **BS Data Science**  
 *UET LAHORE (2025-2029)*
+
+## Contact
+- Email: ds.muhammadsaad@gmail.com
+- GitHub: [@dsimsaad](https://github.com/dsimsaad)
