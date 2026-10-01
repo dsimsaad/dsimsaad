@@ -1,6 +1,9 @@
-<h1 align="center">Muhammad Saad</h1>
 <p align="center">
-  <b>Data Science Student from Pakistan</b><br>
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:0d1117,50:161b22,100:21262d&height=160&section=header&text=Muhammad%20Saad&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" />
+</p>
+
+<p align="center">
+  <b>Data Science Student in Pakistan</b><br>
 </p>
 
 <p align="center">
@@ -18,20 +21,25 @@ I am an undergraduate Data Science student driven by problem-solving, mathematic
 
 ## Skills & Technical Stack
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Programming Languages** | C, C#, Python |
-| **Web Technologies** | HTML5, CSS3, Bootstrap |
-| **Databases & Storage** | Microsoft SQL Server (T-SQL) |
-| **Developer Tools** | Git, GitHub, Visual Studio Code |
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
 ## Featured Projects
 
-### [BuildWise](https://github.com/dsimsaad/BuildWise)
-A desktop management application engineered using Object-Oriented Programming (OOP) in C# and backed by Microsoft SQL Server. Designed to streamline structural scheduling, database interactions, and project planning workflows.
-
+### 🛠️ [BuildWise](https://github.com/dsimsaad/BuildWise)
+BuildWise is a comprehensive construction management application engineered using Object-Oriented Programming (OOP) in C# and integrated with Microsoft SQL Server for robust backend database administration. The system is designed to streamline structural project scheduling, resource management, and complex workflow tracking for engineering and construction projects. Managing construction projects often leads to delays, disorganized planning, and scattered resource tracking. BuildWise solves this by providing a unified platform that connects project scheduling, budget planning, and material management into one place.
 ---
 
 ## Education
