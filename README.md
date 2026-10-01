@@ -1,5 +1,7 @@
+<h1 align="center">Muhammad Saad</h1>
+
 <p align="center">
-  Muhammad Saad
+  <b>Data Science Student in Pakistan</b>
 </p>
 
 <p align="center">
