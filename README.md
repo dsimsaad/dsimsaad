@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=100&section=header" width="100%" />
+</p>
+
 <h1 align="center">Muhammad Saad</h1>
 
 <p align="center">
@@ -20,7 +24,7 @@
 
 ## About Me
 
-I am an undergraduate Data Science student driven by problem-solving, mathematics, and software development. I'm continuously learning new technologies, improving my problem-solving skills.
+I am an undergraduate Data Science student driven by problem-solving, mathematics, and software development. I'm continuously learning new technologies and improving my problem-solving skills.
 
 My goal is to grow into a skilled Data Scientist who can use data, technology, and analytical thinking to solve meaningful real-world problems.
 
@@ -70,3 +74,7 @@ I'm always open to connecting with fellow developers, data enthusiasts, and peop
 * **Email:** [ds.muhammadsaad@gmail.com](mailto:ds.muhammadsaad@gmail.com)
 * **LinkedIn:** [linkedin.com/in/msaad-ds](https://linkedin.com/in/msaad-ds)
 * **GitHub:** [@dsimsaad](https://github.com/dsimsaad)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=100&section=footer" width="100%" />
+</p>
