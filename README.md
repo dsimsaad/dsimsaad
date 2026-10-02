@@ -20,7 +20,9 @@
 
 ## About Me
 
-I am an undergraduate Data Science student driven by problem-solving, mathematics, and software development.
+I am an undergraduate Data Science student driven by problem-solving, mathematics, and software development. I'm continuously learning new technologies, improving my problem-solving skills.
+
+My goal is to grow into a skilled Data Scientist who can use data, technology, and analytical thinking to solve meaningful real-world problems.
 
 ---
 
@@ -62,6 +64,8 @@ Built with **C#** and **Microsoft SQL Server**, it helps teams replace manual pa
 ---
 
 ## Contact & Connect
+
+I'm always open to connecting with fellow developers, data enthusiasts, and people interested in technology, AI, and Data Science.
 
 * **Email:** [ds.muhammadsaad@gmail.com](mailto:ds.muhammadsaad@gmail.com)
 * **LinkedIn:** [linkedin.com/in/msaad-ds](https://linkedin.com/in/msaad-ds)
