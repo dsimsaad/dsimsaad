@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=100&section=header" width="100%" />
-</p>
-
-<h1 align="center">Muhammad Saad</h1>
+<img src="https://capsule-render.vercel.app/api?type=checkered&color=0:9BA3F5,100:7656E8&height=240&section=header&text=Muhammad%20Saad&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <p align="center">
   <b>Data Science Student in Pakistan</b>
@@ -75,6 +71,4 @@ I'm always open to connecting with fellow developers, data enthusiasts, and peop
 * **LinkedIn:** [linkedin.com/in/msaad-ds](https://linkedin.com/in/msaad-ds)
 * **GitHub:** [@dsimsaad](https://github.com/dsimsaad)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=100&section=footer" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=checkered&color=0:9BA3F5,100:7656E8&height=120&section=footer" width="100%"/>
