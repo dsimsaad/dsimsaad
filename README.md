@@ -41,13 +41,21 @@ My goal is to grow into a skilled Data Scientist who can use data, technology, a
 
 ## Featured Projects
 
-### 🛠️ [BuildWise](https://github.com/dsimsaad/BuildWise)
+
+### BuildWise
 
 Managing construction projects often leads to delays, disorganized planning, and scattered resource tracking.
+BuildWise provides a unified platform that connects project scheduling, budget planning, and material management into one place.
+Built with C# and Microsoft SQL Server, it helps teams replace manual paperwork with organized database tracking, allowing project managers to monitor progress, manage assets, and keep engineering projects organized.
 
-**BuildWise** provides a unified platform that connects project scheduling, budget planning, and material management into one place.
+Tech Stack: C# Microsoft SQL Server OOP Database Management
 
-Built with **C#** and **Microsoft SQL Server**, it helps teams replace manual paperwork with organized database tracking, allowing project managers to monitor progress, manage assets, and keep engineering projects organized.
+### FinTrack Plus
+
+FinTrack Plus is a smart personal finance tracker and advisor that helps users manage income, expenses, budgets, savings, investments, and financial goals in one place.
+The platform also includes financial reports, investment and compounding calculators, and an AI-powered financial assistant named Mark. It uses Firebase for authentication and data storage, with Gemini API integration for the AI assistant.
+
+Tech Stack: HTML5 CSS3 JavaScript Bootstrap 5 Firebase Local Storage Gemini API
 
 ---
 
