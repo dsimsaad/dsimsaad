@@ -67,4 +67,4 @@ I'm always open to connecting with fellow developers, data enthusiasts, and peop
 * **LinkedIn:** [linkedin.com/in/msaad-ds](https://linkedin.com/in/msaad-ds)
 * **GitHub:** [@dsimsaad](https://github.com/dsimsaad)
 
-<img src="https://capsule-render.vercel.app/api?type=checkered&color=0:9BA3F5,100:7656E8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=checkered&color=0:9BA3F5,100:7656E8&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" width="100%"/>
