@@ -1,18 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=checkered&color=0:9BA3F5,100:7656E8&height=240&section=header&text=Muhammad%20Saad&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" width="100%"/>
-
-<p align="center">
-  <b>Data Science Student in Pakistan</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=checkered&color=0:9BA3F5,100:7656E8&height=260&section=header&text=Muhammad%20Saad&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=43&desc=Data%20Science%20Student%20from%20Pakistan&descSize=25&descColor=FFFFFF&descAlign=50&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/msaad-ds">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/dsimsaad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:ds.muhammadsaad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
